@@ -2,9 +2,9 @@
 
 ### 1. My Contact Info:
      
-    * Discord:  [Maksim Linkov(@IndieGO86)]
+    * Discord:  Maksim Linkov(@IndieGO86)
     * E-mail:   indiegomail@gamil.com
-    * GitHub:   [Indiego86][https://github.com/IndieGO86]
+    * GitHub:   Indiego86 [https://github.com/IndieGO86]
     * Telegram: indiego_max
 
 ### 2. About Me
@@ -27,10 +27,11 @@
 
 ### 5. Code example 
     
-    
-    ```function multiply(a, b){
+    ```
+    function multiply(a, b){
       return a * b
-    };```
+    };
+    ```
 
 
 ### 6. StressLess (learning project) (HTML, CSS)
@@ -41,7 +42,7 @@ https://github.com/IndieGO86/noobCSSproject.git
 
     * Moscow Economic-Financial Institute; 
         Economics, analysis and audit
-    
+    _______________________________________
     * Stepik - 
         Python: a course for beginners
     * Udemy - 
