@@ -4,7 +4,7 @@
 
     * Discord:  Maksim Linkov(@IndieGO86)
     * E-mail:   indiegomail@gamil.com
-    * GitHub:   Indiego86 [https://github.com/IndieGO86]
+    * GitHub:   [Indiego86](https://github.com/IndieGO86)
     * Telegram: indiego_max
 
 ### 2. About Me
@@ -30,12 +30,11 @@
     * Figma
 
 ### 5. Code example
+        
+        function multiply(a, b){
+            return a * b
+        };
 
-    ```
-    function multiply(a, b){
-      return a * b
-    };
-    ```
 
 ### 6. StressLess (learning project) (HTML, CSS)
 
