@@ -4,7 +4,7 @@
 
     * Discord:  Maksim Linkov(@IndieGO86)
     * E-mail:   indiegomail@gamil.com
-    * GitHub:   [Indiego86](https://github.com/IndieGO86)
+    * GitHub:   https://github.com/IndieGO86
     * Telegram: indiego_max
 
 ### 2. About Me
