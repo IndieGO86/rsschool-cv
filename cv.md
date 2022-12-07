@@ -4,7 +4,7 @@
 
     * Discord:  Maksim Linkov(@IndieGO86)
     * E-mail:   indiegomail@gamil.com
-    * GitHub:   https://github.com/IndieGO86
+    * GitHub:   [Indiego86](https://github.com/IndieGO86)
     * Telegram: indiego_max
 
 ### 2. About Me
@@ -38,7 +38,7 @@
 
 ### 6. StressLess (learning project) (HTML, CSS)
 
-https://github.com/IndieGO86/noobCSSproject.git
+[learn CSS](ttps://github.com/IndieGO86/noobCSSproject.git)
 
 ### 8. Education
 
