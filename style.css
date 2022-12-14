@@ -1,3 +1,7 @@
-.body {
-    background-color: rgb(239, 242, 241);
+body {
+    background-color: rgb(164, 245, 195);
+}
+
+h1 {
+    font-style: italic;
 }
